@@ -6,7 +6,7 @@
 
 Projeto construído durante o evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://maykbrito.github.io/nlw-esports-explorer/)
+[🔗 Clique aqui para acessar](https://torqu4to.github.io/nlw-esports-explorer/)
 
 
 ## 🛠 Tecnologias
